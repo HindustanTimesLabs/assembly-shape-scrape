@@ -1,7 +1,7 @@
-#parliament-scrape#
+# parliament-scrape
 Scrape assembly constituency boundaries [from ECI](http://eci.nic.in/eci_main/GisLayers/GIS_AC_Data.zip).
 
-##Instructions##
+## Instructions
 - `npm install`
 - `node download.js`
 - `node convert_to_json.js`
