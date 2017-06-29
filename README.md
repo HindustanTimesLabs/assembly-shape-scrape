@@ -1,4 +1,4 @@
-# parliament-scrape
+# assembly-shape-scrape
 Scrape assembly constituency boundaries [from ECI](http://eci.nic.in/eci_main/GisLayers/GIS_AC_Data.zip).
 
 ## Instructions
